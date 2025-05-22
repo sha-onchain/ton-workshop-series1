@@ -19,3 +19,9 @@ Before submitting, please make sure you've followed the assignment instructions:
 
 2. **What is a non-custodial wallet?**  
    _Your answer here._
+
+3. **Your wallet address:**  
+   _Your answer here._
+
+3. **Your Telegram ID (Optional):**  
+   _Your answer here._
