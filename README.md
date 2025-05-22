@@ -37,19 +37,18 @@ _Fork first via GitHub UI, then clone locally._ ([The GitHub Blog](https://githu
 - Open `wallets.txt`
 - Append a new line in the format:
 
-  ```
-  EQCb…XYZ
-  ```
+EQAfnIO9w0Auz13OJeOi5rppPYRlwOIEpYkUYKaLkutsn5Oc
+
 
 ### 4. Define Wallet Types in PR Description
 
 In your PR body, answer:
 
 1.  **What is a custodial wallet?**  
-    _Your answer here._
+  A custodial wallet is a type of crypto wallet where a third party (like an exchange or service provider) holds and manages your private keys. This means they control your funds, and you rely on them for access and security
 
 2.  **What is a non-custodial wallet?**  
-    _Your answer here._  
+A non-custodial wallet gives you full control over your private keys and assets. You are solely responsible for managing your wallet, typically using a seed phrase, which also means you're responsible for its security and recovery.
 
 
 ### 5. Commit & Push Changes
