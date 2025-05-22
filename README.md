@@ -37,8 +37,8 @@ _Fork first via GitHub UI, then clone locally._ ([The GitHub Blog](https://githu
 - Open `wallets.txt`
 - Append a new line in the format:
 
-  ```
-  EQCb…XYZ
+EQAq_FBCWCGufLvxQY_ivhogT8TeC16VwYQtPHXlUK80vmlq
+
   ```
 
 ### 4. Define Wallet Types in PR Description
@@ -46,10 +46,10 @@ _Fork first via GitHub UI, then clone locally._ ([The GitHub Blog](https://githu
 In your PR body, answer:
 
 1.  **What is a custodial wallet?**  
-    _Your answer here._
+A custodial wallet means your funds are held and controlled by the exchange or service provider
 
 2.  **What is a non-custodial wallet?**  
-    _Your answer here._  
+Non-custodial wallets mean that users hold their private keys and are solely responsible for their security
 
 
 ### 5. Commit & Push Changes
